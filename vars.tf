@@ -3,5 +3,5 @@ variable "region" {
 }
 
 variable "ec2_count" {
-  default = "3"
+  default = "1"
 }
